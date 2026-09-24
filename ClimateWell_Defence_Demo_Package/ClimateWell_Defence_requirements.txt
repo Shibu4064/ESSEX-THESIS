@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+openpyxl
+joblib
+torch
+transformers>=4.45,<5
+sentence-transformers>=3.0,<6
+gradio>=5,<7
+tqdm
